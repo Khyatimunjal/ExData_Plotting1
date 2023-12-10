@@ -1,0 +1,1 @@
+C:\\Users\\Lenovo\\Downloads\\exdata_data_household_power_consumption\\household_power_consumption.txt
